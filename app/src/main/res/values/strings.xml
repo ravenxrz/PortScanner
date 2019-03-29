@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">PortScanner</string>
+    <string name="sets_scan_input_hint">输入端口（多个以","分隔)</string>
+</resources>
